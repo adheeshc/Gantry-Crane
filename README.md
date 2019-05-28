@@ -11,4 +11,16 @@ Tools Used : MATLAB and Simulink
 
 #### **FILE DESCRIPTION**
 
+Controls_project.m - LQR and LQG for linearized system 
+
+LQR_non_linear.slx - LQR for the non-linear system
+
+Luenberger_non_linear.slx - Luenberger observer for the non-linear system
+
+Final Project.pdf - Project Requirements
+
 #### **RUN INSTRUCTIONS**
+
+1) Run Controls_project.m comment/uncommenting as necessary for linear system
+2) Run LQR_non_linear.slx to run the Simulink for LQR of non-linear system 
+3) Luenberger_non_linear.slx to run the Simulink for Luenberger Observer of non-linear system
